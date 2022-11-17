@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "http://localhost:63342/"
+baseurl: "https://agebeyaw.github.io/bahirdar-photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
